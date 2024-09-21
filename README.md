@@ -1,4 +1,4 @@
-# 🏥 Clinic Application
+# 🏥  Rest API Clinic Application
 
 Welcome to the **Rest API Clinic** application, a cutting-edge solution for **[briefly describe the application's purpose]**. This application is protected by copyright and owned by the IT applicants team at **ICODIE**.
 
